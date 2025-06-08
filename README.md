@@ -1,4 +1,4 @@
-# AI-Powered Foodie Tour Generator with Weather Intelligence
+# Julep AI-Powered Foodie Tour Generator
 
 ## The Problem
 
